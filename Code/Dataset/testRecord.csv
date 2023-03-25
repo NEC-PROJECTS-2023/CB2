@@ -1,0 +1,9 @@
+id,code_module,code_presentation,id_assessment,assessment_type,date,weight,module_presentation_length,id_student,date_submitted,is_banked,score,gender,region,highest_education,imd_band,age_band,num_of_prev_attempts,studied_credits,disability
+198,AAA,2013J,1754,TMA,117.0,20.0,268,134143,116,0,85.0,F,South East Region,A Level or Equivalent,90100,3555,0,60,N
+173887,GGG,2014J,37437,TMA,173.0,0.0,269,694416,168,0,35.0,M,Wales,Lower Than A Level,010,035,0,30,Y
+7,AAA,2013J,1754,TMA,117.0,20.0,268,28400,121,0,70.0,F,Scotland,HE Qualification,2030,3555,0,60,N
+8,AAA,2013J,1755,TMA,166.0,20.0,268,28400,164,0,64.0,F,Scotland,HE Qualification,2030,3555,0,60,N
+84,AAA,2013J,1754,TMA,117.0,20.0,268,74372,120,0,67.0,M,East Anglian Region,A Level or Equivalent,1020,3555,0,150,N
+199,AAA,2013J,1755,TMA,166.0,20.0,268,134143,165,0,86.0,F,South East Region,A Level or Equivalent,90100,3555,0,60,N
+173890,GGG,2014J,37435,TMA,61.0,0.0,269,2203216,67,0,55.0,F,Wales,A Level or Equivalent,8090,3555,0,30,N
+85,AAA,2013J,1755,TMA,166.0,20.0,268,74372,166,0,49.0,M,East Anglian Region,A Level or Equivalent,1020,3555,0,150,N
